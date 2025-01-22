@@ -2,5 +2,5 @@ User-Agent: *
 Disallow:
 
 
-Sitemap: http://tablehobbygame.com.ua/sitemap.xml
-Host: tablehobbygame.com.ua
+Sitemap: http://tablegameheroes.com/sitemap.xml
+Host: tablegameheroes.com
